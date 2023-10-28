@@ -5,7 +5,13 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}"
   ],
   theme: {
-    extend: {},
+    fontFamily: {
+      'agbalumo': ['Agbalumo', 'sans-serif'],
+
+    },
+    extend: {
+      
+    },
   },
   plugins: [],
 }

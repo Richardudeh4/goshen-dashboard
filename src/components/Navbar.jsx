@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Exams = () => {
+const Navbar = () => {
   return (
     <div>
-      udeh
+
     </div>
   )
 }
 
-export default Exams
+export default Navbar

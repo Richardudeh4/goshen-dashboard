@@ -54,6 +54,7 @@ const rows = [
 export default function Billings() {
   return (
     <TableContainer component={Paper}>
+      
       <h1 className="text-center text-4xl pt-12 font-agbalumo">Billings</h1>
       <Table sx={{ minWidth: 700, my: '4rem', mx: '5rem',ml:'20%'}} aria-label="spanning table">
         <TableHead>
